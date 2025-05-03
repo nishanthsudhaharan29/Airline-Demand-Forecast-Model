@@ -1,11 +1,5 @@
 # Airline Demand Forecast Model
 
-## Group Members:
-- Mrunal Manohar Patil
-- Nishanth Sudhaharan
-- Chandrika Mummalaneni
-- Pranindhar Reddy Emmadi
-- Ashar Hashmi
 
 ## Introduction
 
